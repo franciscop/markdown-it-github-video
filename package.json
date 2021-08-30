@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-github-video",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Markdown It plugin for adding Github Videos",
   "homepage": "https://github.com/franciscop/markdown-it-github-video",
   "repository": "https://github.com/franciscop/markdown-it-github-video.git",
