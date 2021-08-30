@@ -2,7 +2,7 @@
   "name": "markdown-it-github-video",
   "version": "0.1.0",
   "description": "Markdown It plugin for adding Github Videos",
-  "homepage": "https://crossroad.page/",
+  "homepage": "https://github.com/franciscop/markdown-it-github-video",
   "repository": "https://github.com/franciscop/markdown-it-github-video.git",
   "bugs": "https://github.com/franciscop/markdown-it-github-video/issues",
   "funding": "https://www.paypal.me/franciscopresencia/19",
