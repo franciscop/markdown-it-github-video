@@ -4,7 +4,11 @@ A plugin for rendering Github Videos also in plain Markdown. Videos embedded in 
 
 https://user-images.githubusercontent.com/2801252/131259499-54a3188d-46c3-4015-98e3-2477684351b6.mp4
 
-But there was no solution to parse the same github links into a `<video>` for your own website. Now there is with `markdown-it-github-video`! To upload a video to Github Readme, just drop it while editing the readme.md, see the instructions by the CEO of Github:
+> Note: the above link works on Github, but not on npm website as of now
+
+There was no solution to parse the same github links into a `<video>` for your own website. Now there is with `markdown-it-github-video`!
+
+To upload a video to Github Readme, just drop it while editing the readme.md, see the instructions by the CEO of Github:
 
 https://twitter.com/natfriedman/status/1383169112948449286
 
