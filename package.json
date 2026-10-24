@@ -2,23 +2,27 @@
   "name": "markdown-it-github-video",
   "version": "0.2.1",
   "description": "Markdown It plugin for adding Github Videos",
-  "homepage": "https://github.com/franciscop/markdown-it-github-video",
-  "repository": "https://github.com/franciscop/markdown-it-github-video.git",
-  "bugs": "https://github.com/franciscop/markdown-it-github-video/issues",
-  "funding": {
-    "url": "https://www.paypal.me/franciscopresencia/19"
-  },
+  "repository": "github:franciscop/markdown-it-github-video",
+  "author": "Francisco Presencia <public@francisco.io> (https://francisco.io/)",
+  "funding": "https://www.paypal.me/franciscopresencia/19",
   "license": "MIT",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {},
   "keywords": [
     "markdown-it",
     "github",
     "video",
     "markdown-it-plugin"
   ],
+  "scripts": {
+    "test": "bun test",
+    "lint": "oxlint index.js"
+  },
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "index.js"
+  ],
   "devDependencies": {
-    "markdown-it": "^12.2.0"
+    "markdown-it": "^12.2.0",
+    "oxlint": "^1.89.0"
   }
 }

@@ -1,4 +1,4 @@
-# Markdown It Github Video Plugin
+# Markdown It Github Video Plugin [![npm install markdown-it-github-video](https://img.shields.io/badge/npm%20install-markdown--it--github--video-blue.svg)](https://www.npmjs.com/package/markdown-it-github-video) [![tests](https://github.com/franciscop/markdown-it-github-video/workflows/tests/badge.svg)](https://github.com/franciscop/markdown-it-github-video/actions) [![gzip size](https://img.badgesize.io/franciscop/markdown-it-github-video/master/index.js.svg?label=gzip&logo=&compression=gzip)](https://github.com/franciscop/markdown-it-github-video/blob/master/index.js) [![deps](https://img.shields.io/badge/deps-0-limegreen.svg)](https://github.com/franciscop/markdown-it-github-video/blob/master/package.json)
 
 A plugin for rendering Github Videos also in plain Markdown. Videos embedded in Github look like this:
 

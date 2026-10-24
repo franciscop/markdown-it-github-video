@@ -1,4 +1,4 @@
-export default function github_video_plugin(md, mdOptions) {
+export default function github_video_plugin(md) {
   const defaultTextRenderer = md.renderer.rules.text;
   const videoRegexp = /^https:\/\/user-images.githubusercontent.com\/\d+\/[a-zA-Z0-9-]*.mp4/;
 
